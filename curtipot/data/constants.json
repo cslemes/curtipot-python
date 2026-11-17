@@ -1,0 +1,3547 @@
+[
+  {
+    "index": 1,
+    "name": "Ácido acético",
+    "category": "Uso Frequente",
+    "charge_base": -1,
+    "pkas": [
+      4.757
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "CH3COOH",
+    "molar_mass": 60.052
+  },
+  {
+    "index": 2,
+    "name": "Ácido carbônico",
+    "category": "Uso Frequente",
+    "charge_base": -2,
+    "pkas": [
+      6.352,
+      10.329
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2CO3",
+    "molar_mass": null
+  },
+  {
+    "index": 3,
+    "name": "Ácido cítrico",
+    "category": "Uso Frequente",
+    "charge_base": -3,
+    "pkas": [
+      3.128,
+      4.761,
+      6.396
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H3C6H5O7",
+    "molar_mass": 192.027
+  },
+  {
+    "index": 4,
+    "name": "Ácido clorídrico",
+    "category": "Uso Frequente",
+    "charge_base": -1,
+    "pkas": [
+      -7.0
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "",
+    "molar_mass": null
+  },
+  {
+    "index": 5,
+    "name": "Ácido EDTA",
+    "category": "Uso Frequente",
+    "charge_base": -4,
+    "pkas": [
+      -0.21,
+      1.5,
+      2.21,
+      3.11,
+      6.75,
+      11.03
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C10H16N2O8",
+    "molar_mass": 292.09
+  },
+  {
+    "index": 6,
+    "name": "Ácido fosfórico",
+    "category": "Uso Frequente",
+    "charge_base": -3,
+    "pkas": [
+      2.148,
+      7.199,
+      12.35
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H3PO4",
+    "molar_mass": 97.976
+  },
+  {
+    "index": 7,
+    "name": "Hidróxido de amônio",
+    "category": "Uso Frequente",
+    "charge_base": 0,
+    "pkas": [
+      9.244
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "NH3",
+    "molar_mass": 17.026
+  },
+  {
+    "index": 8,
+    "name": "Hidróxido de sódio",
+    "category": "Uso Frequente",
+    "charge_base": -1,
+    "pkas": [
+      13.997
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "NaOH",
+    "molar_mass": null
+  },
+  {
+    "index": 12,
+    "name": "Acetamida",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      0.63
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C2H5NO",
+    "molar_mass": 59.067
+  },
+  {
+    "index": 13,
+    "name": "Ácido acético",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.757
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "CH3COOH",
+    "molar_mass": 60.052
+  },
+  {
+    "index": 14,
+    "name": "Ácido acetoacético",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.58
+    ],
+    "temp_c": 18.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H6O3",
+    "molar_mass": 102.089
+  },
+  {
+    "index": 15,
+    "name": "Ácido acrílico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.25
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H4O2",
+    "molar_mass": 72.063
+  },
+  {
+    "index": 16,
+    "name": "Ácido adípico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      4.43,
+      5.41
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H10O4",
+    "molar_mass": 146.143
+  },
+  {
+    "index": 17,
+    "name": "Ácido 4-aminobenzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.501,
+      4.874
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H7NO2",
+    "molar_mass": 137.138
+  },
+  {
+    "index": 18,
+    "name": "Ácido 2-aminobenzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.108,
+      4.946
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H7NO2",
+    "molar_mass": 137.138
+  },
+  {
+    "index": 19,
+    "name": "Ácido 2-aminobutanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.29,
+      9.83
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H9NO2",
+    "molar_mass": 103.12
+  },
+  {
+    "index": 20,
+    "name": "Ácido 6-aminohexanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.373,
+      10.804
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H13NO2",
+    "molar_mass": 131.174
+  },
+  {
+    "index": 21,
+    "name": "Ácido 5-aminopentanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.27,
+      10.766
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H11NO2",
+    "molar_mass": 117.147
+  },
+  {
+    "index": 22,
+    "name": "Ácido arsênico",
+    "category": "Ordem Alfabética",
+    "charge_base": -3,
+    "pkas": [
+      2.24,
+      6.96,
+      11.5
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H3AsO4",
+    "molar_mass": null
+  },
+  {
+    "index": 23,
+    "name": "Ácido arsenoso",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      9.22
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H3AsO3",
+    "molar_mass": null
+  },
+  {
+    "index": 24,
+    "name": "Ácido ascórbico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      4.1,
+      11.79
+    ],
+    "temp_c": 24.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H8O6",
+    "molar_mass": null
+  },
+  {
+    "index": 25,
+    "name": "Ácido aspártico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      1.99,
+      3.9,
+      10.002
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H7NO4",
+    "molar_mass": null
+  },
+  {
+    "index": 26,
+    "name": "Ácido barbitúrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.01
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H4N2O3",
+    "molar_mass": 128.09
+  },
+  {
+    "index": 27,
+    "name": "Ácido benzenosulfônico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      0.7
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6O3S",
+    "molar_mass": null
+  },
+  {
+    "index": 28,
+    "name": "Ácido benzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.19
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H6O2",
+    "molar_mass": null
+  },
+  {
+    "index": 29,
+    "name": "Ácido bórico",
+    "category": "Ordem Alfabética",
+    "charge_base": -3,
+    "pkas": [
+      9.236,
+      12.74,
+      13.8
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "H3BO3",
+    "molar_mass": null
+  },
+  {
+    "index": 30,
+    "name": "Ácido bromídrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      -9.0
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HI",
+    "molar_mass": null
+  },
+  {
+    "index": 31,
+    "name": "Ácido butanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.83
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H8O2",
+    "molar_mass": null
+  },
+  {
+    "index": 32,
+    "name": "Ácido 3-butenóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.34
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H6O2",
+    "molar_mass": null
+  },
+  {
+    "index": 33,
+    "name": "Ácido carbônico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      6.352,
+      10.329
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2CO3",
+    "molar_mass": null
+  },
+  {
+    "index": 34,
+    "name": "Ácido cianídrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      9.21
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HCN",
+    "molar_mass": null
+  },
+  {
+    "index": 35,
+    "name": "Ácido ciânico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.46
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HCNO",
+    "molar_mass": null
+  },
+  {
+    "index": 36,
+    "name": "Ácido cítrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -3,
+    "pkas": [
+      3.128,
+      4.761,
+      6.396
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H3C6H5O7",
+    "molar_mass": null
+  },
+  {
+    "index": 37,
+    "name": "Ácido clorídrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      -7.0
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HCl",
+    "molar_mass": null
+  },
+  {
+    "index": 38,
+    "name": "Ácido cloroacético",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.865
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "ClCH2COOH",
+    "molar_mass": null
+  },
+  {
+    "index": 39,
+    "name": "Ácido 2-clorobenzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.92
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H5CIO2",
+    "molar_mass": null
+  },
+  {
+    "index": 40,
+    "name": "Ácido 3-clorobenzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.82
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H5CIO2",
+    "molar_mass": null
+  },
+  {
+    "index": 41,
+    "name": "Ácido 4-clorobenzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.98
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H5CIO2",
+    "molar_mass": null
+  },
+  {
+    "index": 42,
+    "name": "Ácido crômico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      -0.2,
+      6.51
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "H2CrO4",
+    "molar_mass": null
+  },
+  {
+    "index": 43,
+    "name": "Ácido 2,4-diaminobutanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      1.85,
+      8.24,
+      10.44
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H10N2O2",
+    "molar_mass": null
+  },
+  {
+    "index": 44,
+    "name": "Ácido dicloroacético",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      1.3
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "Cl2CHCOOH",
+    "molar_mass": null
+  },
+  {
+    "index": 45,
+    "name": "Ácido dínicotínico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.8
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H5NO4",
+    "molar_mass": null
+  },
+  {
+    "index": 46,
+    "name": "Ácido dipicolínico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      2.16,
+      4.76
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H5NO4",
+    "molar_mass": null
+  },
+  {
+    "index": 47,
+    "name": "Ácido etilenodiaminatetraacético (EDTA)",
+    "category": "Ordem Alfabética",
+    "charge_base": -4,
+    "pkas": [
+      -0.21,
+      1.5,
+      2.21,
+      3.11,
+      6.75,
+      11.03
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C10H16N2O8",
+    "molar_mass": null
+  },
+  {
+    "index": 48,
+    "name": "Ácido fenilacético",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.28
+    ],
+    "temp_c": 18.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H8O2",
+    "molar_mass": null
+  },
+  {
+    "index": 49,
+    "name": "Ácido fluorídrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.17
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HF",
+    "molar_mass": null
+  },
+  {
+    "index": 50,
+    "name": "ácido fórmico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.745
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "HCOOH",
+    "molar_mass": null
+  },
+  {
+    "index": 51,
+    "name": "Ácido fosfórico",
+    "category": "Ordem Alfabética",
+    "charge_base": -3,
+    "pkas": [
+      2.148,
+      7.199,
+      12.35
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H3PO4",
+    "molar_mass": null
+  },
+  {
+    "index": 52,
+    "name": "Ácido m-ftálico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      3.7,
+      4.6
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H6O4",
+    "molar_mass": 166.14
+  },
+  {
+    "index": 53,
+    "name": "Ácido o-ftálico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      2.76,
+      4.96
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H6O4",
+    "molar_mass": null
+  },
+  {
+    "index": 54,
+    "name": "Ácido p-ftálico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      3.54,
+      4.46
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H6O4",
+    "molar_mass": 166.14
+  },
+  {
+    "index": 55,
+    "name": "ácido fumárico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      3.053,
+      4.494
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H4O4",
+    "molar_mass": 116.07
+  },
+  {
+    "index": 56,
+    "name": "Ácido glicérico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.52
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H6O4",
+    "molar_mass": null
+  },
+  {
+    "index": 57,
+    "name": "Ácido glicólico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.831
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HOCH2COOH",
+    "molar_mass": null
+  },
+  {
+    "index": 58,
+    "name": "Ácido glioxílico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.18
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C2H2O3",
+    "molar_mass": null
+  },
+  {
+    "index": 59,
+    "name": "Ácido l-glutâmico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      2.23,
+      4.42,
+      9.95
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H9NO4",
+    "molar_mass": 147.13
+  },
+  {
+    "index": 60,
+    "name": "Ácido heptanodióico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.71
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H12O4",
+    "molar_mass": null
+  },
+  {
+    "index": 61,
+    "name": "Ácido heptanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.89
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H14O2",
+    "molar_mass": null
+  },
+  {
+    "index": 62,
+    "name": "Ácido hexanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.85
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H12O2",
+    "molar_mass": null
+  },
+  {
+    "index": 63,
+    "name": "Ácido hidrazóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.72
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HN3",
+    "molar_mass": null
+  },
+  {
+    "index": 64,
+    "name": "Ácido m-hidroxibenzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      4.06,
+      9.92
+    ],
+    "temp_c": 19.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H6O3",
+    "molar_mass": null
+  },
+  {
+    "index": 65,
+    "name": "Ácido p-hidroxibenzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      4.48,
+      9.32
+    ],
+    "temp_c": 19.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H6O3",
+    "molar_mass": null
+  },
+  {
+    "index": 66,
+    "name": "Ácido 3-hidroxipropanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.51
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H6O3",
+    "molar_mass": null
+  },
+  {
+    "index": 67,
+    "name": "Ácido hipobromoso",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      8.63
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HOBr",
+    "molar_mass": null
+  },
+  {
+    "index": 68,
+    "name": "Ácido hipocloroso",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      7.53
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HOCl",
+    "molar_mass": null
+  },
+  {
+    "index": 69,
+    "name": "Ácido hipoiodoso",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      10.64
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HOI",
+    "molar_mass": null
+  },
+  {
+    "index": 70,
+    "name": "Ácido iódico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      0.77
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HIO3",
+    "molar_mass": null
+  },
+  {
+    "index": 71,
+    "name": "Ácido isocítrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -3,
+    "pkas": [
+      3.29,
+      4.71,
+      6.4
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H8O7",
+    "molar_mass": null
+  },
+  {
+    "index": 72,
+    "name": "Ácido lático",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.86
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HC3H5O3",
+    "molar_mass": null
+  },
+  {
+    "index": 73,
+    "name": "Ácido maleico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      1.91,
+      6.332
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H4O4",
+    "molar_mass": null
+  },
+  {
+    "index": 74,
+    "name": "Ácido málico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      3.459,
+      5.097
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H6O5",
+    "molar_mass": null
+  },
+  {
+    "index": 75,
+    "name": "Ácido malônico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      2.847,
+      5.696
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HOOCCH2COOH",
+    "molar_mass": null
+  },
+  {
+    "index": 76,
+    "name": "Ácido 2-metilbutanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.8
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H10O2",
+    "molar_mass": null
+  },
+  {
+    "index": 77,
+    "name": "Ácido 3-metilbutanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.77
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H10O2",
+    "molar_mass": null
+  },
+  {
+    "index": 78,
+    "name": "Ácido metilmalônico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      3.07,
+      5.76
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H6O4",
+    "molar_mass": null
+  },
+  {
+    "index": 79,
+    "name": "Ácido 4-metilpentanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.84
+    ],
+    "temp_c": 18.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H12O2",
+    "molar_mass": null
+  },
+  {
+    "index": 80,
+    "name": "ácido 2-(N-morfolino)ethanosulfonico = MES",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      6.2
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H13NO4S",
+    "molar_mass": 195.2
+  },
+  {
+    "index": 81,
+    "name": "Ácido nitrilotriacético",
+    "category": "Ordem Alfabética",
+    "charge_base": -3,
+    "pkas": [
+      1.1,
+      1.65,
+      2.94,
+      10.334
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H9NO6",
+    "molar_mass": 191.11
+  },
+  {
+    "index": 82,
+    "name": "Ácido 2-nitrobenzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.179
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H5NO4",
+    "molar_mass": null
+  },
+  {
+    "index": 83,
+    "name": "Ácido 3-nitrobenzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.449
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H5NO4",
+    "molar_mass": null
+  },
+  {
+    "index": 84,
+    "name": "Ácido 4-nitrobenzóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.442
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H5NO4",
+    "molar_mass": null
+  },
+  {
+    "index": 85,
+    "name": "Ácido nitroso",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.15
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HNO2",
+    "molar_mass": null
+  },
+  {
+    "index": 86,
+    "name": "Ácido octanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.89
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H16O2",
+    "molar_mass": null
+  },
+  {
+    "index": 87,
+    "name": "Ácido octenodióico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.52
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H14O4",
+    "molar_mass": null
+  },
+  {
+    "index": 88,
+    "name": "Ácido oxálico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      1.252,
+      4.266
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C2H2O4",
+    "molar_mass": null
+  },
+  {
+    "index": 89,
+    "name": "Ácido oxaloacético",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      2.22,
+      3.89,
+      13.03
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H4O5",
+    "molar_mass": null
+  },
+  {
+    "index": 90,
+    "name": "Ácido pentanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.84
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H10O2",
+    "molar_mass": null
+  },
+  {
+    "index": 91,
+    "name": "Ácido perclórico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      -10.0
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HClO4",
+    "molar_mass": null
+  },
+  {
+    "index": 92,
+    "name": "Ácido p-periódico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      1.55,
+      8.28
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H5IO6",
+    "molar_mass": null
+  },
+  {
+    "index": 93,
+    "name": "Ácido picolínico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      1.07,
+      5.25
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H5NO2",
+    "molar_mass": null
+  },
+  {
+    "index": 94,
+    "name": "Ácido pícrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      0.38
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H3N3O7",
+    "molar_mass": null
+  },
+  {
+    "index": 95,
+    "name": "Ácido 3-piridinocarboxílico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.96
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H5NO2",
+    "molar_mass": null
+  },
+  {
+    "index": 96,
+    "name": "Ácido 4-piridinocarboxílico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.85
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H5NO2",
+    "molar_mass": null
+  },
+  {
+    "index": 97,
+    "name": "Ácido pirofosfórico",
+    "category": "Ordem Alfabética",
+    "charge_base": -4,
+    "pkas": [
+      1.52,
+      2.36,
+      6.6,
+      9.25
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H4P2O7",
+    "molar_mass": 177.98
+  },
+  {
+    "index": 98,
+    "name": "Ácido pirúvico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.39
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H4O3",
+    "molar_mass": 88.06
+  },
+  {
+    "index": 99,
+    "name": "Ácido propanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.874
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "CH3CH2COOH",
+    "molar_mass": null
+  },
+  {
+    "index": 100,
+    "name": "Ácido salicílico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      2.97,
+      13.74
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H6O3",
+    "molar_mass": 138.12
+  },
+  {
+    "index": 101,
+    "name": "Ácido selênico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      1.92
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2SeO4",
+    "molar_mass": null
+  },
+  {
+    "index": 102,
+    "name": "Ácido selenoso",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      2.64,
+      8.28
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2SeO3",
+    "molar_mass": null
+  },
+  {
+    "index": 103,
+    "name": "Ácido m-silícico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      9.7,
+      12.0
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2SiO3",
+    "molar_mass": null
+  },
+  {
+    "index": 104,
+    "name": "Ácido o-silícico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      9.66,
+      11.7
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H4SiO4",
+    "molar_mass": null
+  },
+  {
+    "index": 105,
+    "name": "Ácido sórbico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.76
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H8O2",
+    "molar_mass": 112.13
+  },
+  {
+    "index": 106,
+    "name": "Ácido succínico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      4.207,
+      5.636
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HOOCCH2CH2COOH",
+    "molar_mass": 118.09
+  },
+  {
+    "index": 107,
+    "name": "Ácido sulfâmico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      0.995
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H3NSO3",
+    "molar_mass": 97.09
+  },
+  {
+    "index": 108,
+    "name": "Ácido sulfídrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      7.02,
+      13.9
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2S",
+    "molar_mass": null
+  },
+  {
+    "index": 109,
+    "name": "Ácido sulfúrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      -3.0,
+      1.99
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2SO4",
+    "molar_mass": 98.08
+  },
+  {
+    "index": 110,
+    "name": "Ácido sulfuroso",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      1.91,
+      7.18
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2SO3",
+    "molar_mass": 82.07
+  },
+  {
+    "index": 111,
+    "name": "Ácido meso-tartárico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      3.22,
+      4.82
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H6O6",
+    "molar_mass": 150.09
+  },
+  {
+    "index": 112,
+    "name": "Ácido d-tartárico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      3.036,
+      4.366
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H6O6",
+    "molar_mass": 150.09
+  },
+  {
+    "index": 113,
+    "name": "Ácido tereftálico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.51
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H6O4",
+    "molar_mass": null
+  },
+  {
+    "index": 114,
+    "name": "Ácido tioacético",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.33
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C2H4OS",
+    "molar_mass": null
+  },
+  {
+    "index": 115,
+    "name": "Ácido tiociânico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      0.9
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HSCN",
+    "molar_mass": null
+  },
+  {
+    "index": 116,
+    "name": "Ácido tiossulfúrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      0.6,
+      1.63
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2S2O3",
+    "molar_mass": null
+  },
+  {
+    "index": 117,
+    "name": "Ácido m-tolúico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.27
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H8O2",
+    "molar_mass": null
+  },
+  {
+    "index": 118,
+    "name": "Ácido o-tolúico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.91
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H8O2",
+    "molar_mass": null
+  },
+  {
+    "index": 119,
+    "name": "Ácido p-tolúico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.36
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H8O2",
+    "molar_mass": null
+  },
+  {
+    "index": 120,
+    "name": "Ácido tricloroacético",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      0.87
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "Cl3CCOOH",
+    "molar_mass": null
+  },
+  {
+    "index": 121,
+    "name": "Ácido trimetilacético",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      5.03
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H10O2",
+    "molar_mass": null
+  },
+  {
+    "index": 122,
+    "name": "Ácido úrico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.89
+    ],
+    "temp_c": 12.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H4N4O3",
+    "molar_mass": null
+  },
+  {
+    "index": 123,
+    "name": "Alanina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.348,
+      9.867
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H7NO2",
+    "molar_mass": 89.094
+  },
+  {
+    "index": 124,
+    "name": "b-Alanina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      3.55,
+      10.24
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H7NO2",
+    "molar_mass": null
+  },
+  {
+    "index": 125,
+    "name": "Aminobenzeno = anilina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      4.6
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H7N",
+    "molar_mass": 93.13
+  },
+  {
+    "index": 126,
+    "name": "2-Aminofenol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.78,
+      9.97
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H7NO",
+    "molar_mass": null
+  },
+  {
+    "index": 127,
+    "name": "Amonia",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      9.244
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "NH3",
+    "molar_mass": 17.026
+  },
+  {
+    "index": 128,
+    "name": "Anilina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      4.63
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H7N",
+    "molar_mass": null
+  },
+  {
+    "index": 129,
+    "name": "Arginina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      1.823,
+      8.991,
+      12.48
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H14N4O2",
+    "molar_mass": null
+  },
+  {
+    "index": 130,
+    "name": "Asparagina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.14,
+      8.93
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H8N2O3",
+    "molar_mass": null
+  },
+  {
+    "index": 131,
+    "name": "Barbital",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      7.43
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H12N2O3",
+    "molar_mass": 184.19
+  },
+  {
+    "index": 132,
+    "name": "Benzilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      9.33
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H9N",
+    "molar_mass": null
+  },
+  {
+    "index": 133,
+    "name": "2-Benzilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      5.13
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C12H11N",
+    "molar_mass": null
+  },
+  {
+    "index": 134,
+    "name": "Betaína",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      1.83
+    ],
+    "temp_c": 0.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H11NO2",
+    "molar_mass": null
+  },
+  {
+    "index": 135,
+    "name": "Butilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.77
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H11N",
+    "molar_mass": null
+  },
+  {
+    "index": 136,
+    "name": "sec-Butilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.56
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H11N",
+    "molar_mass": null
+  },
+  {
+    "index": 137,
+    "name": "terc-Butilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.68
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H11N",
+    "molar_mass": null
+  },
+  {
+    "index": 138,
+    "name": "Cadaverina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.05,
+      10.93
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H14N2",
+    "molar_mass": null
+  },
+  {
+    "index": 139,
+    "name": "Catecol",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      9.4,
+      12.8
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H4(OH)2",
+    "molar_mass": 110.1
+  },
+  {
+    "index": 140,
+    "name": "Cisteína",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      1.71,
+      8.36,
+      10.77
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H7NO2S",
+    "molar_mass": null
+  },
+  {
+    "index": 141,
+    "name": "2-Cloroanilina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      2.65
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6CIN",
+    "molar_mass": null
+  },
+  {
+    "index": 142,
+    "name": "3-Cloroanilina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      3.46
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6CIN",
+    "molar_mass": null
+  },
+  {
+    "index": 143,
+    "name": "4-Cloroanilina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      4.15
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6CIN",
+    "molar_mass": null
+  },
+  {
+    "index": 144,
+    "name": "2-Clorofenol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      8.49
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H5CIO",
+    "molar_mass": null
+  },
+  {
+    "index": 145,
+    "name": "3-Clorofenol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      8.85
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H5CIO",
+    "molar_mass": null
+  },
+  {
+    "index": 146,
+    "name": "4-Clorofenol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      9.18
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H5CIO",
+    "molar_mass": null
+  },
+  {
+    "index": 147,
+    "name": "Codeina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      8.21
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C18H21NO3",
+    "molar_mass": null
+  },
+  {
+    "index": 148,
+    "name": "Colina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      13.9
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H14NO",
+    "molar_mass": null
+  },
+  {
+    "index": 149,
+    "name": "Creatinina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      4.83,
+      9.2
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H7N3O",
+    "molar_mass": null
+  },
+  {
+    "index": 150,
+    "name": "m-Cresol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      10.01
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H8O",
+    "molar_mass": null
+  },
+  {
+    "index": 151,
+    "name": "o-Cresol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      10.2
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H8O",
+    "molar_mass": null
+  },
+  {
+    "index": 152,
+    "name": "p-Cresol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      10.17
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H8O",
+    "molar_mass": null
+  },
+  {
+    "index": 153,
+    "name": "Cupferron",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.37
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6N2O",
+    "molar_mass": null
+  },
+  {
+    "index": 154,
+    "name": "Decilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.64
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C10H23N",
+    "molar_mass": null
+  },
+  {
+    "index": 155,
+    "name": "2,3-Diclorofenol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      7.46
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H4Cl2O",
+    "molar_mass": null
+  },
+  {
+    "index": 156,
+    "name": "Dietilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.933
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "(CH3CH2)2NH",
+    "molar_mass": null
+  },
+  {
+    "index": 157,
+    "name": "Difenilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      0.79
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C12H11N",
+    "molar_mass": null
+  },
+  {
+    "index": 158,
+    "name": "Dimetilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.774
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "(CH3)2NH",
+    "molar_mass": null
+  },
+  {
+    "index": 159,
+    "name": "Dimetilglioxima",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      10.66,
+      12.0
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H12O2N2",
+    "molar_mass": null
+  },
+  {
+    "index": 160,
+    "name": "2,3-Dimetilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.58
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H9N",
+    "molar_mass": null
+  },
+  {
+    "index": 161,
+    "name": "2,4-Dimetilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.99
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H9N",
+    "molar_mass": null
+  },
+  {
+    "index": 162,
+    "name": "2,5-Dimetilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.4
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H9N",
+    "molar_mass": null
+  },
+  {
+    "index": 163,
+    "name": "3,4-Dimetilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.65
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H9N",
+    "molar_mass": null
+  },
+  {
+    "index": 164,
+    "name": "3,5-Dimetilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.46
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H9N",
+    "molar_mass": null
+  },
+  {
+    "index": 165,
+    "name": "3,6-Dimetilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.15
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H9N",
+    "molar_mass": null
+  },
+  {
+    "index": 166,
+    "name": "Disopropilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      11.05
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H15N",
+    "molar_mass": null
+  },
+  {
+    "index": 167,
+    "name": "Dopamina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      8.9,
+      10.6
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H11NO2",
+    "molar_mass": 153.18
+  },
+  {
+    "index": 168,
+    "name": "d-Efedrina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.139
+    ],
+    "temp_c": 10.0,
+    "ionic_strength": 0.0,
+    "formula": "C10H15NO",
+    "molar_mass": 165.23
+  },
+  {
+    "index": 169,
+    "name": "l-Efedrina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      9.958
+    ],
+    "temp_c": 10.0,
+    "ionic_strength": 0.0,
+    "formula": "C10H15NO",
+    "molar_mass": 165.23
+  },
+  {
+    "index": 170,
+    "name": "Etanolamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      9.5
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C2H7NO",
+    "molar_mass": null
+  },
+  {
+    "index": 171,
+    "name": "Etilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.636
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "CH3CH2NH2",
+    "molar_mass": null
+  },
+  {
+    "index": 172,
+    "name": "Etilenodiamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.848,
+      9.928
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2NCH2CH2NH2",
+    "molar_mass": null
+  },
+  {
+    "index": 173,
+    "name": "Etilenoimina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      8.01
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C2H5N",
+    "molar_mass": null
+  },
+  {
+    "index": 174,
+    "name": "2-Etilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      5.89
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H9N",
+    "molar_mass": null
+  },
+  {
+    "index": 175,
+    "name": "1,10-Fenantrolina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      4.84
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C12H8N2",
+    "molar_mass": 180.3
+  },
+  {
+    "index": 176,
+    "name": "Fenilalanina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.2,
+      9.31
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C9H11NO2",
+    "molar_mass": null
+  },
+  {
+    "index": 177,
+    "name": "Feniletilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      9.84
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H11N",
+    "molar_mass": null
+  },
+  {
+    "index": 178,
+    "name": "Fenilglicina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      1.83,
+      4.39
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H9NO2",
+    "molar_mass": null
+  },
+  {
+    "index": 179,
+    "name": "Fenol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      9.98
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HC6H5O",
+    "molar_mass": null
+  },
+  {
+    "index": 180,
+    "name": "m-Fenotidina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      4.18
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H11NO",
+    "molar_mass": null
+  },
+  {
+    "index": 181,
+    "name": "o-Fenotidina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      4.43
+    ],
+    "temp_c": 28.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H11NO",
+    "molar_mass": null
+  },
+  {
+    "index": 182,
+    "name": "p-Fenotidina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      5.2
+    ],
+    "temp_c": 28.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H11NO",
+    "molar_mass": null
+  },
+  {
+    "index": 183,
+    "name": "Glicerol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      14.15
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H8O3",
+    "molar_mass": null
+  },
+  {
+    "index": 184,
+    "name": "Glicina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.35,
+      9.778
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2NCH2COOH",
+    "molar_mass": 75.07
+  },
+  {
+    "index": 185,
+    "name": "l-Glutamina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.17,
+      9.13
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H10N2O3",
+    "molar_mass": 146.15
+  },
+  {
+    "index": 186,
+    "name": "l-Glutationa",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      2.12,
+      3.59,
+      8.75,
+      9.65
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C10H17N3O6S",
+    "molar_mass": null
+  },
+  {
+    "index": 187,
+    "name": "Heptilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.67
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H17N",
+    "molar_mass": null
+  },
+  {
+    "index": 188,
+    "name": "Hexametilenodiamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.762,
+      11.857
+    ],
+    "temp_c": 0.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H16N2",
+    "molar_mass": null
+  },
+  {
+    "index": 189,
+    "name": "Hexilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.56
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H15N",
+    "molar_mass": null
+  },
+  {
+    "index": 190,
+    "name": "Hidrazina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      8.07
+    ],
+    "temp_c": 30.0,
+    "ionic_strength": 0.0,
+    "formula": "N2H4",
+    "molar_mass": null
+  },
+  {
+    "index": 191,
+    "name": "Hidrogeno cromato, íon",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      6.52
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HCrO4-",
+    "molar_mass": null
+  },
+  {
+    "index": 192,
+    "name": "Hidrogeno selenato, íon",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      1.66
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "HSeO4-",
+    "molar_mass": null
+  },
+  {
+    "index": 193,
+    "name": "Hidroquinona",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.35
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6O2",
+    "molar_mass": null
+  },
+  {
+    "index": 194,
+    "name": "Hidroxilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      5.96
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "NH2OH",
+    "molar_mass": null
+  },
+  {
+    "index": 195,
+    "name": "8-Hidroxiquinolina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      4.91,
+      9.81
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "",
+    "molar_mass": null
+  },
+  {
+    "index": 196,
+    "name": "Histamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.04,
+      9.75
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H9N3",
+    "molar_mass": null
+  },
+  {
+    "index": 197,
+    "name": "Histidina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      1.49,
+      6.02,
+      9.29
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H9N3O2",
+    "molar_mass": null
+  },
+  {
+    "index": 198,
+    "name": "Imidazol",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.953
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H4N2",
+    "molar_mass": 68.08
+  },
+  {
+    "index": 199,
+    "name": "Isoleucina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.319,
+      9.754
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H13NO2",
+    "molar_mass": 131.18
+  },
+  {
+    "index": 200,
+    "name": "l-Leucina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.328,
+      9.744
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H13NO2",
+    "molar_mass": null
+  },
+  {
+    "index": 201,
+    "name": "Lisina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      1.83,
+      9.08,
+      10.9
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H14N2O2",
+    "molar_mass": null
+  },
+  {
+    "index": 202,
+    "name": "Melamina = 1,3,5-triazina-2,4,6-triamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      5.0
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H6N6",
+    "molar_mass": null
+  },
+  {
+    "index": 203,
+    "name": "Metil-1-naftilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      3.67
+    ],
+    "temp_c": 27.0,
+    "ionic_strength": 0.0,
+    "formula": "C11H11N",
+    "molar_mass": null
+  },
+  {
+    "index": 204,
+    "name": "Metilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.63
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "CH5N",
+    "molar_mass": 31.1
+  },
+  {
+    "index": 205,
+    "name": "2-Metilanilina = o-touidina = amino-1-metilbenzeno",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      4.447
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H9N",
+    "molar_mass": 107.17
+  },
+  {
+    "index": 206,
+    "name": "4-Metilanilina = p-toluidina = 4-amino-1-metilbenzeno",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      5.084
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H9N",
+    "molar_mass": 107.17
+  },
+  {
+    "index": 207,
+    "name": "2-Metilbenzimidazol",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.19
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H8N2",
+    "molar_mass": null
+  },
+  {
+    "index": 208,
+    "name": "2-Metilfenol = o-cresol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      10.28
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H8O",
+    "molar_mass": 108.14
+  },
+  {
+    "index": 209,
+    "name": "4-Metilfenol = p-cresol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      10.26
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H8O",
+    "molar_mass": 108.14
+  },
+  {
+    "index": 210,
+    "name": "1-Metilpiperidina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.08
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H13N",
+    "molar_mass": null
+  },
+  {
+    "index": 211,
+    "name": "2-Metilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      5.97
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H7N",
+    "molar_mass": null
+  },
+  {
+    "index": 212,
+    "name": "3-Metilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      5.68
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H7N",
+    "molar_mass": null
+  },
+  {
+    "index": 213,
+    "name": "4-Metilpiridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.02
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H7N",
+    "molar_mass": null
+  },
+  {
+    "index": 214,
+    "name": "Metionina = Ácido (S)-2-amino-4-(metilssulfanilo)-butanóico",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.13,
+      9.27
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H11NO2S",
+    "molar_mass": null
+  },
+  {
+    "index": 215,
+    "name": "Morfina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      8.21
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C17H19NO3",
+    "molar_mass": null
+  },
+  {
+    "index": 216,
+    "name": "Morfolina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      8.33
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H9NO",
+    "molar_mass": null
+  },
+  {
+    "index": 217,
+    "name": "1-Naftol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      9.34
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C10H8O",
+    "molar_mass": null
+  },
+  {
+    "index": 218,
+    "name": "2-Naftol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      9.51
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C10H8O",
+    "molar_mass": null
+  },
+  {
+    "index": 219,
+    "name": "Nicotina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      3.12,
+      8.02
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C10H14N2",
+    "molar_mass": null
+  },
+  {
+    "index": 220,
+    "name": "2-Nitroanilina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      -0.26
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6N2O2",
+    "molar_mass": null
+  },
+  {
+    "index": 221,
+    "name": "3-Nitroanilina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      2.466
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6N2O2",
+    "molar_mass": null
+  },
+  {
+    "index": 222,
+    "name": "4-Nitroanilina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      1.0
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6N2O2",
+    "molar_mass": null
+  },
+  {
+    "index": 223,
+    "name": "2-Nitrofenol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      7.21
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H5NO3",
+    "molar_mass": null
+  },
+  {
+    "index": 224,
+    "name": "3-Nitrofenol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      8.39
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H5NO3",
+    "molar_mass": null
+  },
+  {
+    "index": 225,
+    "name": "4-Nitrofenol",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      7.15
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H5NO3",
+    "molar_mass": null
+  },
+  {
+    "index": 226,
+    "name": "Noradrenalina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      8.64,
+      9.7
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H11NO3",
+    "molar_mass": null
+  },
+  {
+    "index": 227,
+    "name": "Octadecilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.6
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C18H39N",
+    "molar_mass": null
+  },
+  {
+    "index": 228,
+    "name": "Papaverina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.4
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C20H21NO4",
+    "molar_mass": null
+  },
+  {
+    "index": 229,
+    "name": "Paracetamol = acetaminofeno",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      9.51
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H9NO2",
+    "molar_mass": 151.17
+  },
+  {
+    "index": 230,
+    "name": "Peróxido de hidrogênio",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      11.65
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "H2O2",
+    "molar_mass": null
+  },
+  {
+    "index": 231,
+    "name": "Pilocarpina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      6.87
+    ],
+    "temp_c": 30.0,
+    "ionic_strength": 0.0,
+    "formula": "C11H16N2O2",
+    "molar_mass": 208.259
+  },
+  {
+    "index": 232,
+    "name": "Piperazina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      5.333,
+      9.731
+    ],
+    "temp_c": 23.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H10N2",
+    "molar_mass": null
+  },
+  {
+    "index": 233,
+    "name": "Piperidina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      7.53,
+      11.123
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H11N",
+    "molar_mass": 85.15
+  },
+  {
+    "index": 234,
+    "name": "Piridina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      5.229
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H5N",
+    "molar_mass": 79.1
+  },
+  {
+    "index": 235,
+    "name": "Pirimidina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      1.1
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H4N2O3",
+    "molar_mass": 80.088
+  },
+  {
+    "index": 236,
+    "name": "Pirocatecol",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      9.4,
+      12.8
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6O2",
+    "molar_mass": 110.1
+  },
+  {
+    "index": 237,
+    "name": "Pirrolidina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      11.27
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H9N",
+    "molar_mass": null
+  },
+  {
+    "index": 238,
+    "name": "Prolina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      1.952,
+      10.64
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H9NO2",
+    "molar_mass": 115.13
+  },
+  {
+    "index": 239,
+    "name": "Propilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.566
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "CH3CH2CH2NH2",
+    "molar_mass": null
+  },
+  {
+    "index": 240,
+    "name": "Purina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      2.3,
+      8.96
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H4N4",
+    "molar_mass": 120.11
+  },
+  {
+    "index": 241,
+    "name": "Quinina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      4.13,
+      8.52
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C20H24N2O2",
+    "molar_mass": 324.42
+  },
+  {
+    "index": 242,
+    "name": "Quinolina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      4.9
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C9H7N",
+    "molar_mass": 129.16
+  },
+  {
+    "index": 243,
+    "name": "Resorcinol",
+    "category": "Ordem Alfabética",
+    "charge_base": -2,
+    "pkas": [
+      9.3,
+      11.06
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C6H6O2",
+    "molar_mass": 110.1
+  },
+  {
+    "index": 244,
+    "name": "Sacarina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      11.68
+    ],
+    "temp_c": 18.0,
+    "ionic_strength": 0.0,
+    "formula": "C7H5NO3S",
+    "molar_mass": null
+  },
+  {
+    "index": 245,
+    "name": "Serina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.19,
+      9.05
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H7NO3",
+    "molar_mass": 105.09
+  },
+  {
+    "index": 246,
+    "name": "Stricnina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      8.26
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C21H22N2O2",
+    "molar_mass": 334.41
+  },
+  {
+    "index": 247,
+    "name": "Tiazol",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      2.44
+    ],
+    "temp_c": 20.0,
+    "ionic_strength": 0.0,
+    "formula": "C3H3NS",
+    "molar_mass": null
+  },
+  {
+    "index": 248,
+    "name": "Tiramina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      9.74,
+      10.52
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C8H11NO",
+    "molar_mass": null
+  },
+  {
+    "index": 249,
+    "name": "Tirosina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.17,
+      9.19,
+      10.47
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C9H11NO3",
+    "molar_mass": null
+  },
+  {
+    "index": 250,
+    "name": "Treonina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.088,
+      9.1
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C4H9NO3",
+    "molar_mass": 119.12
+  },
+  {
+    "index": 251,
+    "name": "Trietanolamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      7.762
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "(HOCH2CH2)3NH",
+    "molar_mass": null
+  },
+  {
+    "index": 252,
+    "name": "Trietilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      10.715
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "(CH3CH2)3NH",
+    "molar_mass": null
+  },
+  {
+    "index": 253,
+    "name": "Trimetilamina",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      9.8
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "(CH3)3NH",
+    "molar_mass": null
+  },
+  {
+    "index": 254,
+    "name": "Triptofano",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.35,
+      9.54
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C11H12N2O2",
+    "molar_mass": null
+  },
+  {
+    "index": 255,
+    "name": "Tris(hidroximetil)-aminometano = tris",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      8.075
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "(HOCH2)3CNH3",
+    "molar_mass": null
+  },
+  {
+    "index": 256,
+    "name": "Uréia",
+    "category": "Ordem Alfabética",
+    "charge_base": 0,
+    "pkas": [
+      0.1
+    ],
+    "temp_c": 21.0,
+    "ionic_strength": 0.0,
+    "formula": "CH4N2O",
+    "molar_mass": null
+  },
+  {
+    "index": 257,
+    "name": "Valina",
+    "category": "Ordem Alfabética",
+    "charge_base": -1,
+    "pkas": [
+      2.286,
+      9.718
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C5H11NO2",
+    "molar_mass": null
+  },
+  {
+    "index": 259,
+    "name": "Azul de Timol (pKa 1,7)",
+    "category": "Indicadores",
+    "charge_base": -2,
+    "pkas": [
+      1.7,
+      8.9
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C27H30O5S",
+    "molar_mass": 466.59
+  },
+  {
+    "index": 260,
+    "name": "Alaranjado de Metila (pKa 3,5)",
+    "category": "Indicadores",
+    "charge_base": -2,
+    "pkas": [
+      -1.0,
+      3.47
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C14H14N3NaO3S",
+    "molar_mass": 327.33
+  },
+  {
+    "index": 261,
+    "name": "Verde de Bromocresol (pKa 4,8)",
+    "category": "Indicadores",
+    "charge_base": -2,
+    "pkas": [
+      -1.0,
+      4.8
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C21H14Br4O5S",
+    "molar_mass": 698.01
+  },
+  {
+    "index": 262,
+    "name": "Vermelho de Metila (pKa 5,1)",
+    "category": "Indicadores",
+    "charge_base": -1,
+    "pkas": [
+      5.1
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C15H15N3O2",
+    "molar_mass": 269.3
+  },
+  {
+    "index": 263,
+    "name": "Azul de Bromotimol (pKa 7,1)",
+    "category": "Indicadores",
+    "charge_base": -1,
+    "pkas": [
+      7.1
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C27H28Br2O5S",
+    "molar_mass": 624.38
+  },
+  {
+    "index": 264,
+    "name": "Vermelho de fenol (pKa 7,7)",
+    "category": "Indicadores",
+    "charge_base": -2,
+    "pkas": [
+      1.2,
+      7.7
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C19H14O5S",
+    "molar_mass": 354.38
+  },
+  {
+    "index": 265,
+    "name": "Azul de Timol (pKa 8,9)",
+    "category": "Indicadores",
+    "charge_base": -2,
+    "pkas": [
+      1.7,
+      8.9
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C27H30O5S",
+    "molar_mass": 466.59
+  },
+  {
+    "index": 266,
+    "name": "Fenolftaleína (pKa 9,7)",
+    "category": "Indicadores",
+    "charge_base": -2,
+    "pkas": [
+      9.5,
+      9.7
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C20H14O4",
+    "molar_mass": 318.32
+  },
+  {
+    "index": 267,
+    "name": "Alizarina amarela R (pKa 11)",
+    "category": "Indicadores",
+    "charge_base": -1,
+    "pkas": [
+      11.0
+    ],
+    "temp_c": 25.0,
+    "ionic_strength": 0.0,
+    "formula": "C13H9N3O5",
+    "molar_mass": 287.23
+  }
+]

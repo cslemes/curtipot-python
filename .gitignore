@@ -1,0 +1,34 @@
+# Python & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Virtual environments (uv / venv)
+.venv/
+venv/
+env/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Reverse engineering and extraction artifacts (excluded from repo)
+curtipot-i.xlsm
+extracted_vba/
+scripts/
+docs/
+scratch/
+
+# IDE & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
