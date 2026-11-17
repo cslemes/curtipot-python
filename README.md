@@ -36,6 +36,19 @@ uv run pytest -v
 
 ---
 
+## ☁️ Deploy no Streamlit Community Cloud
+
+O projeto está pronto para deploy com 1 clique no [Streamlit Community Cloud](https://share.streamlit.io):
+
+1. Acesse o **Streamlit Community Cloud** e clique em **"Create app"**.
+2. Conecte sua conta do GitHub e preencha os campos:
+   - **Repository:** `cslemes/curtipot-python`
+   - **Branch:** `main`
+   - **Main file path:** `streamlit_app.py` *(ou `curtipot/app.py`)*
+3. Clique em **"Deploy!"**. As dependências de produção são lidas automaticamente do `requirements.txt`.
+
+---
+
 ## 🧪 Estrutura dos Módulos
 
 - **`curtipot.models`**: Dataclasses de domínio (`ChemicalSystem`, `TitrationConfig`, `EquilibriumResult`, etc.).

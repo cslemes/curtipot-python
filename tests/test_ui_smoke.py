@@ -69,6 +69,10 @@ def test_ui_files_syntax_compilation():
     app_file = Path(__file__).parent.parent / "curtipot" / "app.py"
     py_compile.compile(str(app_file), doraise=True)
 
+    root_entry = Path(__file__).parent.parent / "streamlit_app.py"
+    if root_entry.exists():
+        py_compile.compile(str(root_entry), doraise=True)
+
 
 def test_ui_example_generators():
     """Verify built-in dataset generators in analysis tabs return valid titration arrays."""
