@@ -179,7 +179,7 @@ def render() -> None:
         step_size=0.1,
     )
 
-    run_fit = st.button("🚀 Executar Regressão Não-Linear", type="primary", use_container_width=True)
+    run_fit = st.button("🚀 Executar Regressão Não-Linear", type="primary", width="stretch")
 
     if run_fit:
         with st.spinner("Executando otimização por mínimos quadrados não-lineares..."):
@@ -234,7 +234,7 @@ def render() -> None:
             "Variação (Δ)": f"{val_fitted - init_val:+.4f}",
         })
 
-    st.dataframe(pd.DataFrame(param_rows), use_container_width=True)
+    st.dataframe(pd.DataFrame(param_rows), width="stretch")
 
     # Interactive plots: Fitted Curve & Residuals
     tab_fit_curve, tab_residuals = st.tabs(["Curva de Ajuste Teórico vs Experimental", "Gráfico de Resíduos"])
@@ -269,7 +269,7 @@ def render() -> None:
             height=480,
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         )
-        st.plotly_chart(fig_fit, use_container_width=True)
+        st.plotly_chart(fig_fit, width="stretch")
 
     with tab_residuals:
         fig_res = go.Figure()
@@ -292,7 +292,7 @@ def render() -> None:
             template="plotly_white",
             height=460,
         )
-        st.plotly_chart(fig_res, use_container_width=True)
+        st.plotly_chart(fig_res, width="stretch")
 
 
 render_tab_analysis_fit = render

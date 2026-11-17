@@ -80,7 +80,7 @@ def render() -> None:
             "pKa4": "{:.3f}",
             "molar_mass": "{:.2f}",
         }, na_rep="-"),
-        use_container_width=True,
+        width="stretch",
         height=380,
     )
 
@@ -119,7 +119,7 @@ def render() -> None:
                         "log(β)": f"{log_betas[i+1]:.4f}",
                         "β": f"{betas[i+1]:.3e}",
                     })
-                st.dataframe(pd.DataFrame(pka_details), use_container_width=True)
+                st.dataframe(pd.DataFrame(pka_details), width="stretch")
 
             # Species labels
             st.write("**Espécies e Cargas no Equilíbrio:**")

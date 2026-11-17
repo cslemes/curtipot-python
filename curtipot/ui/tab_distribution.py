@@ -155,7 +155,7 @@ def render() -> None:
             height=450,
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         )
-        st.plotly_chart(fig_alpha, use_container_width=True)
+        st.plotly_chart(fig_alpha, width="stretch")
 
     with tab_log:
         fig_log = go.Figure()
@@ -179,7 +179,7 @@ def render() -> None:
             height=450,
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         )
-        st.plotly_chart(fig_log, use_container_width=True)
+        st.plotly_chart(fig_log, width="stretch")
 
     with tab_formation:
         fig_form = go.Figure()
@@ -219,7 +219,7 @@ def render() -> None:
             height=450,
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         )
-        st.plotly_chart(fig_form, use_container_width=True)
+        st.plotly_chart(fig_form, width="stretch")
 
     with tab_buffer:
         fig_buf = go.Figure()
@@ -249,7 +249,7 @@ def render() -> None:
             template="plotly_white",
             height=450,
         )
-        st.plotly_chart(fig_buf, use_container_width=True)
+        st.plotly_chart(fig_buf, width="stretch")
 
     with tab_data:
         data_dict: dict[str, object] = {
@@ -261,7 +261,7 @@ def render() -> None:
         for i, label in enumerate(res.species_labels):
             data_dict[f"alpha_{label}"] = res.alphas[i, :]
         df_dist = pd.DataFrame(data_dict)
-        st.dataframe(df_dist, use_container_width=True)
+        st.dataframe(df_dist, width="stretch")
         csv_data = df_dist.to_csv(index=False).encode("utf-8")
         st.download_button(
             label="📥 Baixar Dados da Especiação (CSV)",

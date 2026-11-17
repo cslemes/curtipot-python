@@ -210,11 +210,11 @@ def render() -> None:
 
     col_btn1, col_btn2, col_btn3 = st.columns([2, 2, 2])
     with col_btn1:
-        run_sim = st.button("🚀 Simular Titulação", type="primary", use_container_width=True)
+        run_sim = st.button("🚀 Simular Titulação", type="primary", width="stretch")
     with col_btn2:
-        retain_btn = st.button("📌 Retor / Fixar Curva Atual", use_container_width=True)
+        retain_btn = st.button("📌 Retor / Fixar Curva Atual", width="stretch")
     with col_btn3:
-        clear_retained = st.button("🗑️ Limpar Curvas Retidas", use_container_width=True)
+        clear_retained = st.button("🗑️ Limpar Curvas Retidas", width="stretch")
 
     if clear_retained:
         st.session_state["retained_curves"] = []
@@ -268,7 +268,7 @@ def render() -> None:
                 "dpH_dV": "{:.2f}",
                 "d2pH_dV2": "{:.2e}",
             }),
-            use_container_width=True,
+            width="stretch",
         )
 
     # Plot Tabs
@@ -336,7 +336,7 @@ def render() -> None:
             height=480,
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         )
-        st.plotly_chart(fig_curve, use_container_width=True)
+        st.plotly_chart(fig_curve, width="stretch")
 
     with tab_d1:
         fig_d1 = go.Figure()
@@ -365,7 +365,7 @@ def render() -> None:
             template="plotly_white",
             height=460,
         )
-        st.plotly_chart(fig_d1, use_container_width=True)
+        st.plotly_chart(fig_d1, width="stretch")
 
     with tab_d2:
         fig_d2 = go.Figure()
@@ -388,7 +388,7 @@ def render() -> None:
             template="plotly_white",
             height=460,
         )
-        st.plotly_chart(fig_d2, use_container_width=True)
+        st.plotly_chart(fig_d2, width="stretch")
 
     with tab_buffer_is:
         fig_bis = go.Figure()
@@ -418,7 +418,7 @@ def render() -> None:
             height=460,
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         )
-        st.plotly_chart(fig_bis, use_container_width=True)
+        st.plotly_chart(fig_bis, width="stretch")
 
     with tab_export:
         df_out = pd.DataFrame({
@@ -429,7 +429,7 @@ def render() -> None:
             "Buffer_Capacity": current_res.buffer_capacities,
             "Ionic_Strength": current_res.ionic_strengths,
         })
-        st.dataframe(df_out, use_container_width=True)
+        st.dataframe(df_out, width="stretch")
         csv_bytes = df_out.to_csv(index=False).encode("utf-8")
         st.download_button(
             label="📥 Baixar Dados da Titulação (CSV)",

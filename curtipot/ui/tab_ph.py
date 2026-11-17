@@ -220,7 +220,7 @@ def render() -> None:
         with tab_tbl:
             st.dataframe(
                 df_spec.style.format({"Fração (%)": "{:.2f}%"}),
-                use_container_width=True,
+                width="stretch",
             )
 
         with tab_chart:
@@ -245,7 +245,7 @@ def render() -> None:
                 height=380,
                 margin=dict(l=40, r=40, t=50, b=40),
             )
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
 
 render_tab_ph = render

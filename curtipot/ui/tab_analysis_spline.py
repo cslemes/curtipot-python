@@ -121,7 +121,7 @@ def render() -> None:
                 "dpH_dV": "{:.2f}",
                 "d2pH_dV2": "{:.2e}",
             }),
-            use_container_width=True,
+            width="stretch",
         )
     else:
         st.warning("Nenhum ponto de inflexão/equivalência foi detectado na faixa de dados.")
@@ -181,7 +181,7 @@ def render() -> None:
             height=480,
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         )
-        st.plotly_chart(fig_s, use_container_width=True)
+        st.plotly_chart(fig_s, width="stretch")
 
     with t_d1:
         fig_d1 = go.Figure()
@@ -209,7 +209,7 @@ def render() -> None:
             template="plotly_white",
             height=460,
         )
-        st.plotly_chart(fig_d1, use_container_width=True)
+        st.plotly_chart(fig_d1, width="stretch")
 
     with t_d2:
         fig_d2 = go.Figure()
@@ -241,7 +241,7 @@ def render() -> None:
             template="plotly_white",
             height=460,
         )
-        st.plotly_chart(fig_d2, use_container_width=True)
+        st.plotly_chart(fig_d2, width="stretch")
 
     with t_tab:
         df_spline = pd.DataFrame({
@@ -250,7 +250,7 @@ def render() -> None:
             "dpH_dV": spline_res.dpH_dV,
             "d2pH_dV2": spline_res.d2pH_dV2,
         })
-        st.dataframe(df_spline, use_container_width=True)
+        st.dataframe(df_spline, width="stretch")
         csv_bytes = df_spline.to_csv(index=False).encode("utf-8")
         st.download_button(
             label="📥 Baixar Curva Spline Interpolada (CSV)",
